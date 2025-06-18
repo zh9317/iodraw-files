@@ -17,7 +17,7 @@
           <mxGeometry x="145" y="310" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="530" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="570" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7hgX859HOX4BT3I0AEnO-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7hgX859HOX4BT3I0AEnO-0" target="WIyWlLk6GJQsqaUBKTNV-6">
           <mxGeometry relative="1" as="geometry" />
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="7hgX859HOX4BT3I0AEnO-7" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hgX859HOX4BT3I0AEnO-8" value="soc电量&amp;lt;ocv电量？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="155" y="320" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
