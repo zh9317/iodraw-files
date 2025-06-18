@@ -110,13 +110,16 @@
         <mxCell id="7hgX859HOX4BT3I0AEnO-30" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="455" y="60" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="7hgX859HOX4BT3I0AEnO-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7hgX859HOX4BT3I0AEnO-32" target="7hgX859HOX4BT3I0AEnO-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7hgX859HOX4BT3I0AEnO-32" value="按档位逐级减小soc电量" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="420" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7hgX859HOX4BT3I0AEnO-36" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="505" y="575" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7hgX859HOX4BT3I0AEnO-37" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="7hgX859HOX4BT3I0AEnO-37" value="No" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="425" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
