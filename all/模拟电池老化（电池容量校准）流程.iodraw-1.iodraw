@@ -13,7 +13,7 @@
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8-Z-qiiv-dMj0XXmqxIt-2" target="-Vcoc02ZG3yqacjRTaHX-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8-Z-qiiv-dMj0XXmqxIt-2" value="电量增加量累积" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8-Z-qiiv-dMj0XXmqxIt-2" value="电量增加量累积&lt;div&gt;（基于初始化电量）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="127.5" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Vcoc02ZG3yqacjRTaHX-1" target="-Vcoc02ZG3yqacjRTaHX-7">
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-13" value="本次累积电量&lt;div&gt;与上一次累积电量差值&lt;/div&gt;&lt;div&gt;是否大于某一限度&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="522.5" y="520" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-Vcoc02ZG3yqacjRTaHX-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Vcoc02ZG3yqacjRTaHX-15" target="-Vcoc02ZG3yqacjRTaHX-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-15" value="初始化电量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="127.5" y="110" width="120" height="60" as="geometry" />
