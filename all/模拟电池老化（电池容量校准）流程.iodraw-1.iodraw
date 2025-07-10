@@ -48,7 +48,7 @@
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-8" value="电量减少量累积" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Vcoc02ZG3yqacjRTaHX-11" value="保存累积电量到flash" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-Vcoc02ZG3yqacjRTaHX-11" value="保存累积电量&lt;div&gt;和电池容量&lt;/div&gt;&lt;div&gt;到flash&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="127.5" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Vcoc02ZG3yqacjRTaHX-12" target="-Vcoc02ZG3yqacjRTaHX-11">
@@ -99,7 +99,10 @@
           <mxGeometry x="50" y="390" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-40" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="290" width="60" height="30" as="geometry" />
+          <mxGeometry x="170" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-Vcoc02ZG3yqacjRTaHX-41" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="720" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
