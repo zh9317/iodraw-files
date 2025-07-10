@@ -13,7 +13,7 @@
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8-Z-qiiv-dMj0XXmqxIt-2" target="-Vcoc02ZG3yqacjRTaHX-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8-Z-qiiv-dMj0XXmqxIt-2" value="电量增加量累积&lt;div&gt;（基于初始化电量）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8-Z-qiiv-dMj0XXmqxIt-2" value="电量增加量累积&lt;div&gt;(基于初始化电量)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="127.5" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Vcoc02ZG3yqacjRTaHX-1" target="-Vcoc02ZG3yqacjRTaHX-7">
