@@ -25,6 +25,12 @@
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-2" value="是否在充电？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="127.5" y="140" width="155" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="-Vcoc02ZG3yqacjRTaHX-7" value="是否charge done" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="127.5" y="460" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-Vcoc02ZG3yqacjRTaHX-8" value="保存电量累积量到SRAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
