@@ -58,7 +58,7 @@
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Vcoc02ZG3yqacjRTaHX-11" target="-Vcoc02ZG3yqacjRTaHX-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Vcoc02ZG3yqacjRTaHX-11" value="保存累积电量&lt;div&gt;和电池容量&lt;/div&gt;&lt;div&gt;到flash&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-Vcoc02ZG3yqacjRTaHX-11" value="保存（更新）累积电量&lt;div&gt;和电池容量&lt;/div&gt;&lt;div&gt;到flash&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="127.5" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Vcoc02ZG3yqacjRTaHX-12" target="-Vcoc02ZG3yqacjRTaHX-11">
@@ -136,7 +136,7 @@
           <mxGeometry x="397.5" y="740" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-50" value="No" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="275" y="670" width="60" height="30" as="geometry" />
+          <mxGeometry x="492.5" y="660" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
