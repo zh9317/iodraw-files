@@ -144,6 +144,9 @@
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-54" value="当前方案" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="830" y="10" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-Vcoc02ZG3yqacjRTaHX-55" value="当前方案" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
