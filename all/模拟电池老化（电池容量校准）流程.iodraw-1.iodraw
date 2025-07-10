@@ -13,7 +13,7 @@
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8-Z-qiiv-dMj0XXmqxIt-2" target="-Vcoc02ZG3yqacjRTaHX-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8-Z-qiiv-dMj0XXmqxIt-2" value="计算电量增加量" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8-Z-qiiv-dMj0XXmqxIt-2" value="电量增加量累积" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="145" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-1" value="保存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
