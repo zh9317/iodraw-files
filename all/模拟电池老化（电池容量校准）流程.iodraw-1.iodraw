@@ -150,13 +150,8 @@
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-56" value="初始化电量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Vcoc02ZG3yqacjRTaHX-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-Vcoc02ZG3yqacjRTaHX-58">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="940" y="450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-58" value="电量增加量累积&lt;div&gt;(基于初始化电量)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="917.5" y="315" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-60" value="保存电量累积量到SRAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1330" y="515" width="120" height="60" as="geometry" />
