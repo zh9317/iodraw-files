@@ -150,26 +150,14 @@
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-56" value="初始化电量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Vcoc02ZG3yqacjRTaHX-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Vcoc02ZG3yqacjRTaHX-58" target="-Vcoc02ZG3yqacjRTaHX-60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-58" value="电量增加量累积&lt;div&gt;(基于初始化电量)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="917.5" y="315" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-Vcoc02ZG3yqacjRTaHX-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Vcoc02ZG3yqacjRTaHX-60" target="-Vcoc02ZG3yqacjRTaHX-66">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-60" value="保存电量累积量到SRAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="917.5" y="415" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Vcoc02ZG3yqacjRTaHX-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Vcoc02ZG3yqacjRTaHX-63" target="-Vcoc02ZG3yqacjRTaHX-58">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-63" value="是否在充电？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="195" width="155" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="-Vcoc02ZG3yqacjRTaHX-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Vcoc02ZG3yqacjRTaHX-66" target="-Vcoc02ZG3yqacjRTaHX-73">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-66" value="是否charge done" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="515" width="155" height="80" as="geometry" />
@@ -183,12 +171,6 @@
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-70" value="保存(更新)累积电量&lt;div&gt;和电池容量&lt;/div&gt;&lt;div&gt;到flash&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="917.5" y="755" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Vcoc02ZG3yqacjRTaHX-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Vcoc02ZG3yqacjRTaHX-73" target="-Vcoc02ZG3yqacjRTaHX-70">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-Vcoc02ZG3yqacjRTaHX-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Vcoc02ZG3yqacjRTaHX-73" target="-Vcoc02ZG3yqacjRTaHX-75">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-73" value="是否第一次充电？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="635" width="155" height="80" as="geometry" />
         </mxCell>
@@ -200,29 +182,11 @@
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-75" value="本次累积电量&lt;div&gt;与上一次累积电量差值&lt;/div&gt;&lt;div&gt;是否大于某一限度&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1127.5" y="635" width="155" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-Vcoc02ZG3yqacjRTaHX-76" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="960" y="275" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-Vcoc02ZG3yqacjRTaHX-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Vcoc02ZG3yqacjRTaHX-80" target="-Vcoc02ZG3yqacjRTaHX-68">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-80" value="是否在放电？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1110" y="195" width="155" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-Vcoc02ZG3yqacjRTaHX-81" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1174" y="275" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-83" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="922.5" y="875" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-Vcoc02ZG3yqacjRTaHX-85" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="960" y="595" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-Vcoc02ZG3yqacjRTaHX-86" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="960" y="715" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-Vcoc02ZG3yqacjRTaHX-87" value="No" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1055" y="655" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.988;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Vcoc02ZG3yqacjRTaHX-75" target="-Vcoc02ZG3yqacjRTaHX-70">
           <mxGeometry relative="1" as="geometry">
