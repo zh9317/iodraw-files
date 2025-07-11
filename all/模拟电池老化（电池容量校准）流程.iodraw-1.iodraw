@@ -186,6 +186,9 @@
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Vcoc02ZG3yqacjRTaHX-91" target="-Vcoc02ZG3yqacjRTaHX-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-Vcoc02ZG3yqacjRTaHX-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-Vcoc02ZG3yqacjRTaHX-91" target="-Vcoc02ZG3yqacjRTaHX-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-91" value="soc是否到达100%" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="862.5" y="280" width="155" height="80" as="geometry" />
         </mxCell>
