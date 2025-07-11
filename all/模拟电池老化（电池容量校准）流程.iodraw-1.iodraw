@@ -187,7 +187,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-Vcoc02ZG3yqacjRTaHX-91" target="-Vcoc02ZG3yqacjRTaHX-94">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="843" y="320" />
+              <mxPoint x="843" y="220" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-91" value="soc是否到达100%" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="862.5" y="280" width="155" height="80" as="geometry" />
@@ -197,6 +202,9 @@
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-94" value="电量累加" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Vcoc02ZG3yqacjRTaHX-100" value="No" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="230" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
