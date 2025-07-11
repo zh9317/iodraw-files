@@ -157,13 +157,16 @@
           <mxGeometry x="880" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-60" value="保存电量累积量到SRAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Vcoc02ZG3yqacjRTaHX-66" target="-Vcoc02ZG3yqacjRTaHX-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-66" value="是否charge done" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="862.5" y="480" width="155" height="80" as="geometry" />
+          <mxGeometry x="862.5" y="560" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-Vcoc02ZG3yqacjRTaHX-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Vcoc02ZG3yqacjRTaHX-68" target="-Vcoc02ZG3yqacjRTaHX-66">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-68" value="100%之后的电量累加" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="390" width="120" height="60" as="geometry" />
@@ -172,16 +175,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-70" value="保存(更新)累积电量&lt;div&gt;和电池容量&lt;/div&gt;&lt;div&gt;到flash&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-73" value="是否第一次充电？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="862.5" y="585" width="155" height="80" as="geometry" />
+          <mxGeometry x="862.5" y="665" width="155" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-75" value="本次累积电量&lt;div&gt;与上一次累积电量差值&lt;/div&gt;&lt;div&gt;是否大于某一限度&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1086" y="585" width="155" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-83" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="885" y="780" width="110" height="50" as="geometry" />
+          <mxGeometry x="885" y="860" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Vcoc02ZG3yqacjRTaHX-91" target="-Vcoc02ZG3yqacjRTaHX-68">
           <mxGeometry relative="1" as="geometry" />
