@@ -165,19 +165,11 @@
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-68" value="电量减少量累积" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1127.5" y="315" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Vcoc02ZG3yqacjRTaHX-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Vcoc02ZG3yqacjRTaHX-70" target="-Vcoc02ZG3yqacjRTaHX-83">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-70" value="保存(更新)累积电量&lt;div&gt;和电池容量&lt;/div&gt;&lt;div&gt;到flash&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="917.5" y="755" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-73" value="是否第一次充电？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="635" width="155" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="-Vcoc02ZG3yqacjRTaHX-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Vcoc02ZG3yqacjRTaHX-75">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1350" y="895" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-75" value="本次累积电量&lt;div&gt;与上一次累积电量差值&lt;/div&gt;&lt;div&gt;是否大于某一限度&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1127.5" y="635" width="155" height="80" as="geometry" />
@@ -187,19 +179,6 @@
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-83" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="922.5" y="875" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-Vcoc02ZG3yqacjRTaHX-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.988;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Vcoc02ZG3yqacjRTaHX-75" target="-Vcoc02ZG3yqacjRTaHX-70">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1205" y="792" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-Vcoc02ZG3yqacjRTaHX-89" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1187.5" y="735" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-Vcoc02ZG3yqacjRTaHX-90" value="No" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1282.5" y="655" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-Vcoc02ZG3yqacjRTaHX-91" value="soc是否到达100%" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1126.5" y="490" width="155" height="80" as="geometry" />
