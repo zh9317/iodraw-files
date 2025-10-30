@@ -14,7 +14,7 @@
           <mxGeometry x="130" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-15" value="分段设置下行打码结束时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="350" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
