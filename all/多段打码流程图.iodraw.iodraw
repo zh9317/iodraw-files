@@ -121,7 +121,7 @@
           <mxGeometry x="725" y="750" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-64" value="TX1配包" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="475" y="460" width="120" height="30" as="geometry" />
+          <mxGeometry x="465" y="850" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
