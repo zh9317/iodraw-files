@@ -25,6 +25,9 @@
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-16" value="获取slot count" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KGXHVn3VEjzA-jwRcCGb-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KGXHVn3VEjzA-jwRcCGb-17" target="KGXHVn3VEjzA-jwRcCGb-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-17" value="slot count &amp;gt; 9" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="75" y="370" width="150" height="80" as="geometry" />
         </mxCell>
