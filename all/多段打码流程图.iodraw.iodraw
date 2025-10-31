@@ -117,6 +117,9 @@
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-62" value="设置下一次定时触发下行中断的时间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="725" width="150" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="KGXHVn3VEjzA-jwRcCGb-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KGXHVn3VEjzA-jwRcCGb-64" target="KGXHVn3VEjzA-jwRcCGb-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-64" value="配置第二轮的section" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="455" y="810" width="145" height="40" as="geometry" />
         </mxCell>
@@ -127,9 +130,9 @@
           <mxGeometry x="650" y="775" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-82" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="455" y="990" width="145" height="40" as="geometry" />
+          <mxGeometry x="455" y="1010" width="145" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KGXHVn3VEjzA-jwRcCGb-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KGXHVn3VEjzA-jwRcCGb-84" target="KGXHVn3VEjzA-jwRcCGb-64">
+        <mxCell id="KGXHVn3VEjzA-jwRcCGb-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KGXHVn3VEjzA-jwRcCGb-84" target="KGXHVn3VEjzA-jwRcCGb-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-84" value="是否是位置包" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
