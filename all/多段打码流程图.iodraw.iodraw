@@ -130,7 +130,7 @@
           <mxGeometry x="650" y="775" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-82" value="刷新打码电极配置到870" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="455" y="1010" width="145" height="40" as="geometry" />
+          <mxGeometry x="445" y="1010" width="165" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KGXHVn3VEjzA-jwRcCGb-84" target="KGXHVn3VEjzA-jwRcCGb-82">
           <mxGeometry relative="1" as="geometry" />
@@ -140,6 +140,9 @@
         </mxCell>
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-89" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="525" y="970" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KGXHVn3VEjzA-jwRcCGb-90" value="刷新打码电极配置到870" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="455" y="1020" width="165" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
