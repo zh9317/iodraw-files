@@ -108,9 +108,6 @@
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-54" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="585" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KGXHVn3VEjzA-jwRcCGb-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KGXHVn3VEjzA-jwRcCGb-55" target="KGXHVn3VEjzA-jwRcCGb-62">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-55" value="配置前9段section" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="740" y="660" width="120" height="30" as="geometry" />
         </mxCell>
