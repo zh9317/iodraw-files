@@ -97,10 +97,13 @@
           <mxGeometry x="490" y="505" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-47" value="TX1打码使能" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="505" y="690" width="120" height="30" as="geometry" />
+          <mxGeometry x="505" y="660" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-52" value="TX1打码使能" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="670" y="690" width="120" height="30" as="geometry" />
+          <mxGeometry x="670" y="660" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KGXHVn3VEjzA-jwRcCGb-54" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="585" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
