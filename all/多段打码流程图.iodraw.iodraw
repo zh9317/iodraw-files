@@ -85,14 +85,14 @@
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-42" value="第1次下行中断？" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="470" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KGXHVn3VEjzA-jwRcCGb-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KGXHVn3VEjzA-jwRcCGb-47" target="KGXHVn3VEjzA-jwRcCGb-62">
+        <mxCell id="KGXHVn3VEjzA-jwRcCGb-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KGXHVn3VEjzA-jwRcCGb-47" target="KGXHVn3VEjzA-jwRcCGb-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-47" value="TX1打码使能" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="465" y="585" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-52" value="配置剩余section" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="625" width="120" height="30" as="geometry" />
+          <mxGeometry x="465" y="650" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-54" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="550" width="60" height="30" as="geometry" />
