@@ -129,6 +129,9 @@
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-82" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="455" y="930" width="145" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="KGXHVn3VEjzA-jwRcCGb-84" value="第1个downlink中断？" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="445" y="480" width="180" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
