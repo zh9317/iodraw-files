@@ -103,7 +103,7 @@
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-55" value="配置前9段section" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="660" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KGXHVn3VEjzA-jwRcCGb-61" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KGXHVn3VEjzA-jwRcCGb-61" value="NO(第2个downlink中断)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KGXHVn3VEjzA-jwRcCGb-62">
@@ -121,7 +121,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-77" value="配置前9段section" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="650" y="840" width="120" height="30" as="geometry" />
+          <mxGeometry x="650" y="790" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
