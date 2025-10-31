@@ -55,6 +55,9 @@
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-34" value="设置第二次定时触发下行中断的时间&lt;div&gt;HalDlinkFrameTimer2Cfg()&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="22.5" y="820" width="255" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KGXHVn3VEjzA-jwRcCGb-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KGXHVn3VEjzA-jwRcCGb-36" target="KGXHVn3VEjzA-jwRcCGb-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-36" value="下行中断处理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="70" width="120" height="60" as="geometry" />
         </mxCell>
@@ -85,11 +88,11 @@
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-41" value="TX1配包" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="450" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KGXHVn3VEjzA-jwRcCGb-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KGXHVn3VEjzA-jwRcCGb-42" target="KGXHVn3VEjzA-jwRcCGb-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-42" value="第1次下行中断？" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="399" y="505" width="150" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="KGXHVn3VEjzA-jwRcCGb-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KGXHVn3VEjzA-jwRcCGb-47" target="KGXHVn3VEjzA-jwRcCGb-42">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-47" value="TX1打码使能" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="615" width="120" height="30" as="geometry" />
