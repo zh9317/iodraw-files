@@ -55,6 +55,9 @@
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-34" value="设置第二次定时触发下行中断的时间&lt;div&gt;HalDlinkFrameTimer2Cfg()&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="22.5" y="820" width="255" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KGXHVn3VEjzA-jwRcCGb-36" value="上行中断处理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
