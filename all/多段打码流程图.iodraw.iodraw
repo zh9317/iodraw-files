@@ -58,7 +58,7 @@
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KGXHVn3VEjzA-jwRcCGb-36" target="KGXHVn3VEjzA-jwRcCGb-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KGXHVn3VEjzA-jwRcCGb-36" value="下行中断处理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KGXHVn3VEjzA-jwRcCGb-36" value="收到下行中断" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KGXHVn3VEjzA-jwRcCGb-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KGXHVn3VEjzA-jwRcCGb-37" target="KGXHVn3VEjzA-jwRcCGb-39">
